@@ -21,9 +21,9 @@
 }
 
 @media (max-width:768px) {
-.top {
-  text-align: center;
-}
+  .top {
+    text-align: center;
+  }
 }
 
 .center-page {
