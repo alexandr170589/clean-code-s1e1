@@ -47,11 +47,13 @@
   padding: 0px;
 }
 
-.li-style, .h3-style {
+.li-style,
+.h3-style {
   list-style: none;
 }
 
-.input-style, .btn {
+.input-style,
+.btn {
   outline: none;
 }
 
