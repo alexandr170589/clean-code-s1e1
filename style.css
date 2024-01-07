@@ -43,16 +43,16 @@
 }
 
 .ul-style {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 
 .li-style, .h3-style {
-  list-style:none;
+  list-style: none;
 }
 
 .input-style, .btn {
-  outline:none;
+  outline: none;
 }
 
 .btn {
@@ -155,14 +155,14 @@
 
 /* Edit Task */
 .ul-style.li-style .task.input-style {
-  display:none
+  display: none
 }
 
 .ul-style.li-style.editmode .task.input-style {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .ul-style.li-style.editmode .label-style {
-  display:none;
+  display: none;
 }
