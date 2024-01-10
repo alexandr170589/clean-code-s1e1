@@ -156,15 +156,15 @@
 }
 
 /* Edit Task */
-.ul-style.li-style .task.input-style {
+.li-style .input-style[type=text] {
   display: none;
 }
 
-.ul-style.li-style.editmode .task.input-style {
+.li-style.editmode .input-style[type=text] {
   display: inline-block;
   width: 224px;
 }
 
-.ul-style.li-style.editmode .label-style {
+.li-style.editmode > .label-style {
   display: none;
 }
